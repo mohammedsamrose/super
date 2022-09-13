@@ -1,0 +1,56 @@
+body {
+  background-color: #000;
+  text-align: center;
+  font-family: monospace;
+  color: #fff;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.navbar {
+  padding: 1%;
+  background-color: #000;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+h1 {
+  margin-top: 40px;
+}
+
+.tt {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+#batman {
+  margin-top: 110px;
+}
+
+.describe {
+  margin-top: 40px;
+  line-height: 1.5;
+}
+
+.vv {
+  display: flex;
+  justify-content: right;
+  margin-top: 50px;
+}
+
+.ee {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 60px;
+}
